@@ -1,3 +1,5 @@
+# This repo is no longer maintained.
+
 # Text-classifier
 
 A simple RNN(LSTM) network to train a text classifier to detect three classes in data set. 
